@@ -1,5 +1,6 @@
 # business-contacts
 An application serving up business contacts, via Node, Express, and React
+Edited by shami :3c
 
 ## Getting Started
 ### Option 1 - Run in development (or just without docker)
